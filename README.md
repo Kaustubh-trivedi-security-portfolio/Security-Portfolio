@@ -1,6 +1,6 @@
 # Cybersecurity-Portfolio
 
-<h1>Hi, I'm Kaustubh Trivedi <br/><a href="https://github.com/joshmadakor1">Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/"></h1>
+<h1>Hi, I'm Kaustubh Trivedi <br/><a href="https://github.com/joshmadakor1">Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/kaustubh-trivedi-782ba3187?trk=contact-info"></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
